@@ -1,4 +1,4 @@
-update=10-11-2016 20:22:30
+update=Fri 11 Nov 2016 12:50:35 PM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,6 +59,6 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=efm32hg308
-LibName32=fdn340p
-LibName33=button_small
+LibName31=fdn340p
+LibName32=button_small
+LibName33=efm32

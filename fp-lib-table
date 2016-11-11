@@ -1,5 +1,6 @@
 (fp_lib_table
-  (lib (name keychain)(type KiCad)(uri "$(KIPRJMOD)\\keychain.pretty")(options "")(descr ""))
-  (lib (name battery_extra)(type KiCad)(uri "$(KIPRJMOD)\\battery_extra.pretty")(options "")(descr ""))
-  (lib (name GNDVIA)(type KiCad)(uri "$(KIPRJMOD)\\GNDVIA.pretty")(options "")(descr ""))
+  (lib (name keychain)(type KiCad)(uri "$(KIPRJMOD)/keychain.pretty")(options "")(descr ""))
+  (lib (name battery_extra)(type KiCad)(uri "$(KIPRJMOD)/battery_extra.pretty")(options "")(descr ""))
+  (lib (name GNDVIA)(type KiCad)(uri "$(KIPRJMOD)/GNDVIA.pretty")(options "")(descr ""))
+  (lib (name Pin_header_extra)(type KiCad)(uri "$(KIPRJMOD)/Pin_header_extra.pretty")(options "")(descr ""))
 )
