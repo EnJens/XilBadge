@@ -914,4 +914,12 @@ Wire Wire Line
 Connection ~ 9600 2800
 Text Label 9500 2800 0    60   ~ 0
 +3.3V
+Text Label 4500 3600 0    60   ~ 0
+US1_TX
+Text Label 4500 3700 0    60   ~ 0
+US1_RX
+Text Label 4500 3800 0    60   ~ 0
+US1_CLK
+Text Label 4500 3900 0    60   ~ 0
+US1_CS
 $EndSCHEMATC
